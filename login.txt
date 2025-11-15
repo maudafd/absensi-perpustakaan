@@ -1,0 +1,7 @@
+admin
+usr:admin
+pw:admin123
+
+pengguna
+usr:mahasiswa
+pw:mahasiswa123
